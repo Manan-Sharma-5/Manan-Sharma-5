@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓Currently Studying in TIET Patiala<br>🌐I'm Looking to collaborate in Web Dev Projects<br>☘️I'm Currently Learning Backend<br>⭐️Open for Remote Opportunities
+🎓Currently Studying in TIET Patiala<br>🌐I'm Looking to collaborate in Full Stack Projects<br>☘️I'm Currently Learning Backend<br>⭐️Open for Remote Opportunities
 
 
 ## 🌐 Socials:

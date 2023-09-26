@@ -12,6 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Manan-Sharma-5&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manan-Sharma-5&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![An image of @mash0riginal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mash0riginal)](https://holopin.io/@mash0riginal)
+
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=mash0riginal)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
